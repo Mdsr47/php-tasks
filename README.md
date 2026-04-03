@@ -28,8 +28,8 @@ A Laravel project implementing a Product REST API and an external API consumer.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Mdsr47/php-tasks.git
+cd php-tasks
 ```
 
 ### 2. Install Dependencies
@@ -67,7 +67,7 @@ DB_PASSWORD=your_password
 > ```env
 > DB_CONNECTION=sqlite
 > ```
-> Then create the file: `touch database/database.sqlite`
+
 
 ### 6. Run Migrations
 
